@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  float: right ;
+  height: 50%;
+  width: 50%;
+  margin-top: 200px;
+  margin-right: 80px;
+}
+
+body {
+  background-color: #b1ffa7;
+  margin: 0;
+  font-family: "Yu Mincho";
+}
+
+h1 {
+  margin: 100px 0px;
+  text-align: center;
+  font-size: 40px;
+  color: #000000;
+  text-shadow: 4px 4px 2px #ffffff;
+}
+
+.List1 {
+  transform: scale(2); /* サイズを1.5倍に拡大 */
+  margin: 0px 30px 20px 200px;
+  cursor: pointer; /* カーソルをポインターに変更 */
+  border-radius: 50%;
+}
+
+label {
+  font-size: 20px;
+  color: #000000;
+  text-shadow: 4px 4px 4px #ffffff;
+}
+
+.List2 {
+  transform: scale(2); /* サイズを1.5倍に拡大 */
+  margin: 0px 30px 20px 161px;
+  cursor: pointer; /* カーソルをポインターに変更 */
+  border-radius: 50%;
+}
+
