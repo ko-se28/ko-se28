@@ -1,0 +1,120 @@
+@charset "utf-8";
+
+body {
+  background-image: url(img/nature-landscape-with-starry-clear-sky_23-2151683212.avif);
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 10px;
+  font-size: 70px;
+  color: rgb(255, 0, 157);
+  text-shadow: 3px 3px 3px rgb(255, 255, 255);
+}
+
+.title {
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 0, 157);
+}
+
+a {
+  text-decoration: none;
+  margin: 5px;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(255, 136, 215);
+  border-radius: 20px;
+  text-shadow: 3px 3px 3px rgb(255, 0, 170);
+}
+
+h2 {
+  text-align: center;
+  margin: 40px 20px;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-shadow: 3px 3px 3px rgb(255, 0, 170);
+}
+
+img {
+  display: block;
+  width: 530px;
+  height: 354px;
+  margin: 20px;
+  border-radius: 40px;
+  box-shadow: 6px 6px 4px rgb(70, 70, 70);
+}
+
+.imgs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  position: relative;
+
+}
+p {
+  text-align: center;
+  margin: 20px 10px;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(255, 136, 215);
+  border-radius: 10px;
+  margin: 5px;
+  text-decoration: underline;
+  text-shadow: 3px 3px 3px rgb(255, 0, 170);
+}
+
+.box1 {
+  position: relative;
+}
+
+.p1 {
+  position: relative;
+
+}
+
+.box2 {
+  position: relative;
+
+}
+
+.box3 {
+position: relative;
+right: 20px;
+}
+
+.p3 {
+  position: relative;
+
+}
+
+.box4 {
+  position: relative;
+left: 60px;
+}
+
+.p4 {
+  position: relative;
+  left: 60px;
+}
+
+.box5 {
+  position: relative;
+  right: 30px;
+}
+.p5 {
+  position: relative;
+
+}
+
+
+.box6 {
+  position: relative;
+  left: 70px;
+}
+.p6 {
+  position: relative;
+  left: 70px;
+}
